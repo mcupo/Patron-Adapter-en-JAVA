@@ -1,6 +1,5 @@
 package ar.edu.ort.adapterconobjetos.ejemplo1;
 
-//Clase Adaptable
 public class BarcoPesquero implements BarcoAMotor{
 
 	@Override
